@@ -10,3 +10,13 @@ We give the detailed description about the relevant parameter settings in "Param
 In source code, the main function main() is at the file of 'SRDTSystem.cpp'.
 
 Our project is implemented in Visual Studio 2003 VC++ (Windows XP operation system).
+
+
+How to run this demo: 
+
+Please see attached for the demo. In this folder, there is a executable "SRDTSystem.exe". It can run successfully on the given data (shoppingData). 
+Step 1: 
+Please decompress the "demo.rar" in E:\\.
+Or open the file "SRDTSystem.bat", and modify the path directory “-sd E:/demo”  with the real path directory of "demo" folder.
+Step 2: Then you double press SRDTSystem.bat, It will be running on given data set. 
+Step 3: Please follow the demo, prepare your data and set the corresponding parameters (you can find the description of parameters in "Parameter list and command of batch file.doc").
