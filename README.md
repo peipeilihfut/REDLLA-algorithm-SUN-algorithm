@@ -1,8 +1,8 @@
-# REDLLA
+# REDLLA algorithm and SUN algorithm
 classification algorithm for data streams with recurrent concept drifts
 
 
-REDLLA algorithm is called SSEMUI here.
+REDLLA/SUN algorithm is called SSEMUI here.
 If you select KMeans, it is the REDLLA algorithm.  If you select the KMode as the parameter, it is our other algorith -SUN. 
 
 We give the detailed description about the relevant parameter settings in "Parameter list and command of batch file.doc". But it is for our READLLA algorithm.
@@ -22,3 +22,11 @@ Or open the file "SRDTSystem.bat", and modify the path directory â€œ-sd E:/demoâ
 Step 2: Then you double press SRDTSystem.bat, It will be running on given data set. 
 
 Step 3: Please follow the demo, prepare your data and set the corresponding parameters (you can find the description of parameters in "Parameter list and command of batch file.doc").
+
+Please cite the following references if you use the sources codes of REDLLA and SUN algorithms:
+[SUN Algorithm] Xindong Wu, Peipei Li and Xuegang Hu. Learning from Concept Drifting 
+Data Streams with Unlabeled Data, NeuroComputing, 2012, 92(1): 145-155.
+
+[REDLLA algorithm] Peipei Li, Xindong Wu and Xuegang Hu. Mining Recurring Concept Drifts with Limited Labeled Streaming Data. ACM Transactions on Intelligent Systems and Technology, 2012, 3(2): 29:1-32 .
+
+
