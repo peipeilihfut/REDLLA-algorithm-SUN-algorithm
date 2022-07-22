@@ -24,6 +24,8 @@ Step 2: Then you double press SRDTSystem.bat, It will be running on given data s
 Step 3: Please follow the demo, prepare your data and set the corresponding parameters (you can find the description of parameters in "Parameter list and command of batch file.doc").
 
 Please cite the following references if you use the sources codes of REDLLA and SUN algorithms:
+
+
 [SUN Algorithm] Xindong Wu, Peipei Li and Xuegang Hu. Learning from Concept Drifting 
 Data Streams with Unlabeled Data, NeuroComputing, 2012, 92(1): 145-155.
 
